@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.axway.ms.mb.simulation.ui.MBRemoteSimulationType">
+    <stringAttribute key="Connection_Name" value="b2bi.dev.sebank.se"/>
+    <booleanAttribute key="Include_Linenumbers" value="true"/>
+    <booleanAttribute key="Override" value="false"/>
+    <stringAttribute key="Project_Name" value="/FRE_STD3_2_PEPPOL_BIS_Billing3.0_FI/Maps/FRE_STD3_2_PEPPOL_BIS_Billing3.0_FI.map"/>
+    <booleanAttribute key="Recompilation" value="true"/>
+    <booleanAttribute key="Store_map_data" value="true"/>
+    <booleanAttribute key="Strip_simulation_information" value="false"/>
+    <listAttribute key="Test_Files"/>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/FRE_STD3_2_PEPPOL_BIS_Billing3.0_FI/Maps/FRE_STD3_2_PEPPOL_BIS_Billing3.0_FI.map"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+</launchConfiguration>
